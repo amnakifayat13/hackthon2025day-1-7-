@@ -1,0 +1,21 @@
+"Hackathon 2025 Day 5: Testing Error Handling, and Backend Integration Refinement Document",,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+S#,Test Case ID,Test Case Description,Test Steps,Expected Result,Actual Result,Status,Severity Level,Assigned To ,Remarks
+,,,,,,,,,
+1,TC001,Validate Product Dynamic Page,Integrate the product page and verify all related items,display product correctly,Displayed correctly,Passed,Low,/,No Error/completed
+2,TC002,Test API error handling,Disconnect API > Refresh page,Show fallback UI with error message,Error message shown,Passed,Medium,-,Handled gracefull
+3,TC003,Searhchbar functionality,Search Products by category,display product correctly,None,None,N/A,/,Imcomplete working
+4,TC004,Pagination,move towards next page,redirect to next page,None,None,N/A,/,Imcomplete working
+5,TC005,Test cart ,Add or remove products,cart updates by add or remove,Updated by add or remove,Passed,Low,/,working smoothly
+6,TC006,manage stok quantity,by adding product into cart decreasing the sanity stock quantity,decrement in sanity stock,managing correctly,Passed,Low,/,managed correctly
+7,TC007,integrate Shipment,"by generating rates, labels and tracking number","generate rates, label andtrackingID",None,None,N/A,/,error in dynamic data
+8,TC008,Check Carousel,Carousel is working efficiently by creating dyanamic page also,adjust carousel with dynamic product page,Managed graefully,Passed,Low,/,Correctly managed
+9,TC009,Ensure responsiveness on mobile,Resize browser window > Check layout,Layout adjusts properly to screen size,Responsive layout working as intended,Passed,Medium,-,Test successful
+,,,,,,,,,
+,,,,,,,,,
+Note:,,,,,,,,,
+"Need more improvment need in future and have to add more functionalities such as Pagination, searchbar, Authentiation, Shipping and payment.",,,,,,,,,
+Prepared by: Amna Aftab,,,,,,,,,
+483865,,,,,,,,,
+Friday(9am-12pm),,,,,,,,,
