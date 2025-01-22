@@ -29,7 +29,7 @@ Deployment: Vercel (for frontend deployment), Sanity Studio (for backend content
 Development Environment Setup:
 
 Configured development environments using GitHub for version control.
-Installed necessary dependencies and frameworks (React, Sanity client) for backend integration and frontend development.
+Installed necessary dependencies and frameworks (Next.Js, Sanity client) for backend integration and frontend development.
 # Day 2-5: Progress on Building Features and Integrations
 **Key Activities:**
 **Frontend Development:** Built key components such as the homepage, product listing page, product detail page, and cart page.
